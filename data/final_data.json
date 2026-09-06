@@ -1,5 +1,505 @@
 [
   {
+    "id": 8504515,
+    "date": "2026-09-06T00:01:08.325327+00:00",
+    "location": "Bengaluru",
+    "company": "DigitalOcean",
+    "role": "SSE",
+    "yoe": 6,
+    "base": 41,
+    "total": 56
+  },
+  {
+    "id": 8503887,
+    "date": "2026-09-05T15:07:34.735717+00:00",
+    "location": "Bengaluru",
+    "company": "F5 Networks",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 12,
+    "total": 28.4
+  },
+  {
+    "id": 8503496,
+    "date": "2026-09-05T11:37:34.421657+00:00",
+    "location": "Bengaluru",
+    "company": "Okta",
+    "role": "Staff Engineer",
+    "yoe": 8,
+    "base": 60,
+    "total": 76
+  },
+  {
+    "id": 8502834,
+    "date": "2026-09-05T04:48:30.242451+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 191.7,
+    "total": 48
+  },
+  {
+    "id": 8501659,
+    "date": "2026-09-04T12:36:44.298700+00:00",
+    "location": "Bengaluru",
+    "company": "Large Global Media Entertainment Company",
+    "role": "Staff Engineer",
+    "yoe": 9,
+    "base": 52.8,
+    "total": 63.3
+  },
+  {
+    "id": 8501659,
+    "date": "2026-09-04T12:36:44.298700+00:00",
+    "location": "Bengaluru",
+    "company": "Startup",
+    "role": "ML Engineer",
+    "yoe": 9,
+    "base": 85,
+    "total": 135.3
+  },
+  {
+    "id": 8501625,
+    "date": "2026-09-04T12:16:14.750184+00:00",
+    "location": "Bengaluru",
+    "company": "Goldman Sachs",
+    "role": "SDE 2",
+    "yoe": 3.2,
+    "base": 37.5,
+    "total": 44.78
+  },
+  {
+    "id": 8500900,
+    "date": "2026-09-04T06:12:24.758188+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "Data Engineer 2",
+    "yoe": 2,
+    "base": 38,
+    "total": 53
+  },
+  {
+    "id": 8500639,
+    "date": "2026-09-04T04:00:47.801623+00:00",
+    "location": "Pune Or Chennai",
+    "company": "Bank of New York",
+    "role": "SDE",
+    "yoe": 0,
+    "base": 17,
+    "total": 27
+  },
+  {
+    "id": 8500278,
+    "date": "2026-09-03T19:57:46.398508+00:00",
+    "location": "Noida",
+    "company": "Astrotalk",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 160,
+    "total": 180
+  },
+  {
+    "id": 8499927,
+    "date": "2026-09-03T16:51:08.349290+00:00",
+    "location": "Bengaluru",
+    "company": "Angel One",
+    "role": "SDE",
+    "yoe": 4.5,
+    "base": 38,
+    "total": 49.4
+  },
+  {
+    "id": 8499927,
+    "date": "2026-09-03T16:51:08.349290+00:00",
+    "location": "Bengaluru",
+    "company": "Five9",
+    "role": "SDE",
+    "yoe": 4.5,
+    "base": 37,
+    "total": 37.4
+  },
+  {
+    "id": 8499927,
+    "date": "2026-09-03T16:51:08.349290+00:00",
+    "location": "Remote",
+    "company": "G42",
+    "role": "Data Engineer",
+    "yoe": 0,
+    "base": 30,
+    "total": 30
+  },
+  {
+    "id": 8499696,
+    "date": "2026-09-03T14:35:12.472320+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.2,
+    "base": 43,
+    "total": 63
+  },
+  {
+    "id": 8499458,
+    "date": "2026-09-03T12:25:08.418263+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "L61 Azure",
+    "yoe": 3,
+    "base": 32,
+    "total": 56
+  },
+  {
+    "id": 8499458,
+    "date": "2026-09-03T12:25:08.418263+00:00",
+    "location": "Bengaluru",
+    "company": "Cloudflare",
+    "role": "P3 Systems Engineer",
+    "yoe": 3,
+    "base": 45.5,
+    "total": 62
+  },
+  {
+    "id": 8498766,
+    "date": "2026-09-03T05:10:46.161151+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.4,
+    "base": 43,
+    "total": 64
+  },
+  {
+    "id": 8495982,
+    "date": "2026-09-01T18:41:42.219265+00:00",
+    "location": "Bangalore",
+    "company": "Udaan",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 17.99875,
+    "total": 30.06709
+  },
+  {
+    "id": 8493810,
+    "date": "2026-08-31T16:45:30.137418+00:00",
+    "location": "Bengaluru",
+    "company": "CrowdStrike",
+    "role": "SDE 2",
+    "yoe": 3.6,
+    "base": 42,
+    "total": 49
+  },
+  {
+    "id": 8493280,
+    "date": "2026-08-31T12:16:15.261074+00:00",
+    "location": "Bengaluru",
+    "company": "Goldman Sachs",
+    "role": "Associate",
+    "yoe": 5,
+    "base": 37,
+    "total": 45.8
+  },
+  {
+    "id": 8493121,
+    "date": "2026-08-31T10:34:13.143558+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "Fresh Grad 2027",
+    "yoe": 0,
+    "base": 17,
+    "total": 29
+  },
+  {
+    "id": 8491388,
+    "date": "2026-08-30T13:01:05.530547+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 36,
+    "total": 41.4
+  },
+  {
+    "id": 8490711,
+    "date": "2026-08-30T07:05:11.885052+00:00",
+    "location": "Bengaluru",
+    "company": "Tech Mahindra",
+    "role": "SDE",
+    "yoe": 5,
+    "base": 22.3,
+    "total": 25.5
+  },
+  {
+    "id": 8490711,
+    "date": "2026-08-30T07:05:11.885052+00:00",
+    "location": "Bengaluru",
+    "company": "Vanguard",
+    "role": "Application Engineer Iii",
+    "yoe": 5,
+    "base": 23.5,
+    "total": 28
+  },
+  {
+    "id": 8490594,
+    "date": "2026-08-30T06:19:54.082850+00:00",
+    "location": "Bengaluru",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 3.6,
+    "base": 46,
+    "total": 51
+  },
+  {
+    "id": 8490282,
+    "date": "2026-08-30T04:13:24.753274+00:00",
+    "location": "Remote",
+    "company": "Revolut",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 52.5,
+    "total": 56.5
+  },
+  {
+    "id": 8488813,
+    "date": "2026-08-29T09:25:49.068214+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 5.5,
+    "base": 33,
+    "total": 51.3
+  },
+  {
+    "id": 8488761,
+    "date": "2026-08-29T08:54:51.680791+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 4.5,
+    "base": 32.08,
+    "total": 48.88
+  },
+  {
+    "id": 8488073,
+    "date": "2026-08-28T18:56:20.218987+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 35,
+    "total": 63
+  },
+  {
+    "id": 8487805,
+    "date": "2026-08-28T15:55:01.679747+00:00",
+    "location": "Bengaluru",
+    "company": "Uber",
+    "role": "SDE 1",
+    "yoe": 8.9,
+    "base": 230,
+    "total": 375
+  },
+  {
+    "id": 8487805,
+    "date": "2026-08-28T15:55:01.679747+00:00",
+    "location": "Bengaluru",
+    "company": "MathiSys",
+    "role": "SDE 1",
+    "yoe": 8.9,
+    "base": 41,
+    "total": 62
+  },
+  {
+    "id": 8483690,
+    "date": "2026-08-26T07:46:30.811989+00:00",
+    "location": "Bengaluru",
+    "company": "UKG",
+    "role": "SDE 3",
+    "yoe": 4.5,
+    "base": 29,
+    "total": 32.5
+  },
+  {
+    "id": 8483690,
+    "date": "2026-08-26T07:46:30.811989+00:00",
+    "location": "Bengaluru",
+    "company": "Angel One",
+    "role": "SDE 2",
+    "yoe": 4.5,
+    "base": 30,
+    "total": 33
+  },
+  {
+    "id": 8482149,
+    "date": "2026-08-25T13:06:05.138094+00:00",
+    "location": "Noida",
+    "company": "Adobe",
+    "role": "Computer Scientist 1",
+    "yoe": 5.2,
+    "base": 35,
+    "total": 63.25
+  },
+  {
+    "id": 8481601,
+    "date": "2026-08-25T07:51:16.181380+00:00",
+    "location": "Bengaluru",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 25,
+    "total": 35.5
+  },
+  {
+    "id": 8480301,
+    "date": "2026-08-24T15:47:11.214172+00:00",
+    "location": "Bengaluru",
+    "company": "Ookla",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 33,
+    "total": 36
+  },
+  {
+    "id": 8479792,
+    "date": "2026-08-24T10:21:42.194219+00:00",
+    "location": "Bengaluru",
+    "company": "WEX FinTech",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 21,
+    "total": 31
+  },
+  {
+    "id": 8479792,
+    "date": "2026-08-24T10:21:42.194219+00:00",
+    "location": "Bengaluru",
+    "company": "Cisco",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 15.9,
+    "total": 25
+  },
+  {
+    "id": 8474565,
+    "date": "2026-08-21T16:28:51.023142+00:00",
+    "location": "Bengaluru",
+    "company": "DocuSign",
+    "role": "Software Engineer (P3)",
+    "yoe": 4.5,
+    "base": 52,
+    "total": 80
+  },
+  {
+    "id": 8473980,
+    "date": "2026-08-21T10:08:19.935248+00:00",
+    "location": "Bengaluru",
+    "company": "eBay",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 25,
+    "total": 37.5
+  },
+  {
+    "id": 8473741,
+    "date": "2026-08-21T07:14:51.184219+00:00",
+    "location": "Gurugram",
+    "company": "Nykaa",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 20,
+    "total": 22
+  },
+  {
+    "id": 8473524,
+    "date": "2026-08-21T05:13:59.913570+00:00",
+    "location": "Bengaluru",
+    "company": "JPMorgan Chase",
+    "role": "SSE",
+    "yoe": 9,
+    "base": 40,
+    "total": 40
+  },
+  {
+    "id": 8473185,
+    "date": "2026-08-20T20:23:44.494873+00:00",
+    "location": "Bengaluru",
+    "company": "Uber",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 52,
+    "total": 76
+  },
+  {
+    "id": 8473134,
+    "date": "2026-08-20T19:34:37.657819+00:00",
+    "location": "Bengaluru",
+    "company": "G42",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 38,
+    "total": 45
+  },
+  {
+    "id": 8472236,
+    "date": "2026-08-20T11:44:54.820303+00:00",
+    "location": "Wfh, India",
+    "company": "Camunda",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": 72,
+    "total": 80
+  },
+  {
+    "id": 8471884,
+    "date": "2026-08-20T08:21:35.302461+00:00",
+    "location": "Bengaluru",
+    "company": "Omnissa",
+    "role": "SMTS",
+    "yoe": 7.5,
+    "base": 59,
+    "total": 74
+  },
+  {
+    "id": 8467051,
+    "date": "2026-08-17T23:06:58.511023+00:00",
+    "location": "Noida",
+    "company": "FICO",
+    "role": "SDE",
+    "yoe": 3.7,
+    "base": 15.5,
+    "total": null
+  },
+  {
+    "id": 8467051,
+    "date": "2026-08-17T23:06:58.511023+00:00",
+    "location": "Gurugram",
+    "company": "Tech Mahindra",
+    "role": "SDE",
+    "yoe": 0,
+    "base": 20,
+    "total": null
+  },
+  {
+    "id": 8465107,
+    "date": "2026-08-16T17:37:50.853276+00:00",
+    "location": "Bengaluru",
+    "company": "Eightfold.ai",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 54,
+    "total": 62
+  },
+  {
+    "id": 8458225,
+    "date": "2026-08-13T07:17:58.929211+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 44,
+    "total": 69.5
+  },
+  {
     "id": 8454814,
     "date": "2026-08-11T14:17:21.394456+00:00",
     "location": "",
@@ -522,7 +1022,7 @@
   {
     "id": 8402454,
     "date": "2026-07-17T05:41:20.550933+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Workday",
     "role": "SSE",
     "yoe": 3.8,
@@ -672,7 +1172,7 @@
   {
     "id": 8389346,
     "date": "2026-07-11T04:52:59.479035+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Zoho",
     "role": "SDE",
     "yoe": 0,
@@ -1002,7 +1502,7 @@
   {
     "id": 8360823,
     "date": "2026-06-27T06:39:13.376358+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Fidelity Investments",
     "role": "SDE",
     "yoe": 2,
@@ -1012,7 +1512,7 @@
   {
     "id": 8360823,
     "date": "2026-06-27T06:39:13.376358+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Citi",
     "role": "SDE",
     "yoe": 2,
@@ -3892,7 +4392,7 @@
   {
     "id": 7684327,
     "date": "2026-03-23T13:46:01.697831+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Walmart",
     "role": "SDE",
     "yoe": 3.5,
@@ -4042,7 +4542,7 @@
   {
     "id": 7664036,
     "date": "2026-03-19T07:35:59.612239+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Tekion",
     "role": "SDE 1",
     "yoe": 1.8,
@@ -4832,7 +5332,7 @@
   {
     "id": 7590712,
     "date": "2026-02-19T03:44:22.906304+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Nielsen",
     "role": "SDE 1",
     "yoe": 2.6,
@@ -5702,7 +6202,7 @@
   {
     "id": 7527037,
     "date": "2026-01-26T15:36:23.932153+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SSE",
     "yoe": 5.5,
@@ -9352,7 +9852,7 @@
   {
     "id": 7341179,
     "date": "2025-11-11T09:06:52.643659+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE",
     "yoe": 2.4,
@@ -9682,7 +10182,7 @@
   {
     "id": 7321474,
     "date": "2025-11-02T16:58:04.531489+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Workday",
     "role": "SSE",
     "yoe": 6.5,
@@ -9832,7 +10332,7 @@
   {
     "id": 7317048,
     "date": "2025-10-31T21:16:51.188180+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Workday",
     "role": "SDE 2",
     "yoe": 3.5,
@@ -12182,7 +12682,7 @@
   {
     "id": 7197525,
     "date": "2025-09-16T20:06:11.543630+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Freshworks",
     "role": "SDE 2",
     "yoe": 4,
@@ -12192,7 +12692,7 @@
   {
     "id": 7197525,
     "date": "2025-09-16T20:06:11.543630+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Nextiva",
     "role": "SDE 3",
     "yoe": 4,
@@ -12282,7 +12782,7 @@
   {
     "id": 7192859,
     "date": "2025-09-15T12:35:08.771325+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Citi",
     "role": "SDE 2",
     "yoe": 6,
@@ -13052,7 +13552,7 @@
   {
     "id": 7148634,
     "date": "2025-09-02T15:46:32.981354+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Startup",
     "role": "SSE",
     "yoe": 6,
@@ -13152,7 +13652,7 @@
   {
     "id": 7145444,
     "date": "2025-09-01T16:51:06.325731+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Freshworks",
     "role": "SSE",
     "yoe": null,
@@ -14222,7 +14722,7 @@
   {
     "id": 7073808,
     "date": "2025-08-13T04:40:20.886303+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 2",
     "yoe": 0,
@@ -14462,7 +14962,7 @@
   {
     "id": 7050434,
     "date": "2025-08-06T08:28:22.830856+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Tekion",
     "role": "SDE 2",
     "yoe": 3,
@@ -14762,7 +15262,7 @@
   {
     "id": 7018430,
     "date": "2025-07-29T05:49:02.814105+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "N/A",
     "yoe": 4.6,
@@ -16202,7 +16702,7 @@
   {
     "id": 6917399,
     "date": "2025-07-04T02:48:05.586136+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 2",
     "yoe": null,
@@ -16652,7 +17152,7 @@
   {
     "id": 6891267,
     "date": "2025-06-27T08:24:52.346350+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "TCS",
     "role": "SSE",
     "yoe": 2.6,
@@ -16662,7 +17162,7 @@
   {
     "id": 6891248,
     "date": "2025-06-27T08:17:28.318636+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "TCS",
     "role": "SSE",
     "yoe": 3.1,
@@ -16672,7 +17172,7 @@
   {
     "id": 6891223,
     "date": "2025-06-27T08:09:37.731407+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "TCS",
     "role": "SSE",
     "yoe": 3.6,
@@ -16742,7 +17242,7 @@
   {
     "id": 6888438,
     "date": "2025-06-26T13:41:39.453306+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Doodleblue Innovations",
     "role": "SDE",
     "yoe": 2.1,
@@ -16752,7 +17252,7 @@
   {
     "id": 6888438,
     "date": "2025-06-26T13:41:39.453306+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Cogentsoft Systems",
     "role": "SDE",
     "yoe": 2.1,
@@ -16762,7 +17262,7 @@
   {
     "id": 6888417,
     "date": "2025-06-26T13:37:44.223746+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Thinkpalm Technologies",
     "role": "SDET",
     "yoe": 2.1,
@@ -16772,7 +17272,7 @@
   {
     "id": 6888328,
     "date": "2025-06-26T13:17:43.325816+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "KLA Tencor",
     "role": "SDET",
     "yoe": 2.2,
@@ -16782,7 +17282,7 @@
   {
     "id": 6888300,
     "date": "2025-06-26T13:09:34.020380+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Global Analytics",
     "role": "SDET 2",
     "yoe": 4.6,
@@ -16792,7 +17292,7 @@
   {
     "id": 6888272,
     "date": "2025-06-26T13:02:46.723654+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Kinaxis",
     "role": "SDET",
     "yoe": 6.6,
@@ -16802,7 +17302,7 @@
   {
     "id": 6888234,
     "date": "2025-06-26T12:49:55.653193+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Cogentsoft Systems",
     "role": "SDE 2",
     "yoe": 2.1,
@@ -18112,7 +18612,7 @@
   {
     "id": 6833143,
     "date": "2025-06-11T15:15:07.885257+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "KLA Tencor",
     "role": "Tech Lead",
     "yoe": 4,
@@ -18342,7 +18842,7 @@
   {
     "id": 6816913,
     "date": "2025-06-06T11:48:09.159713+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Citi",
     "role": "AVP",
     "yoe": 8,
@@ -18442,7 +18942,7 @@
   {
     "id": 6813763,
     "date": "2025-06-05T12:51:19.295553+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 2",
     "yoe": null,
@@ -18642,7 +19142,7 @@
   {
     "id": 6802459,
     "date": "2025-06-01T18:50:10.111726+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Workday",
     "role": "SDE 2",
     "yoe": 2,
@@ -19682,7 +20182,7 @@
   {
     "id": 6751752,
     "date": "2025-05-17T04:02:54.704335+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Fiserv",
     "role": "SDE 1",
     "yoe": 0,
@@ -19982,7 +20482,7 @@
   {
     "id": 6738781,
     "date": "2025-05-12T20:45:05.168327+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 2",
     "yoe": 2,
@@ -20472,7 +20972,7 @@
   {
     "id": 6716268,
     "date": "2025-05-05T07:58:37.759347+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE",
     "yoe": 4.6,
@@ -20992,7 +21492,7 @@
   {
     "id": 6695125,
     "date": "2025-04-28T10:37:31.659075+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Tekion",
     "role": "SDE 2",
     "yoe": null,
@@ -21052,7 +21552,7 @@
   {
     "id": 6689747,
     "date": "2025-04-26T18:14:27.249210+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 3",
     "yoe": 4.2,
@@ -21332,7 +21832,7 @@
   {
     "id": 6673144,
     "date": "2025-04-21T07:11:09.816499+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Qualcomm",
     "role": "SDE 1",
     "yoe": 0,
@@ -23902,7 +24402,7 @@
   {
     "id": 6546378,
     "date": "2025-03-17T08:30:53.102512+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Tekion",
     "role": "SDE",
     "yoe": 0.8,
@@ -24362,7 +24862,7 @@
   {
     "id": 6512985,
     "date": "2025-03-08T10:31:13.915680+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Amazon",
     "role": "SDE 1",
     "yoe": 0.7,
@@ -24372,7 +24872,7 @@
   {
     "id": 6512980,
     "date": "2025-03-08T10:30:38.776124+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Amazon",
     "role": "SDE 1",
     "yoe": 0.7,
@@ -24892,7 +25392,7 @@
   {
     "id": 6493571,
     "date": "2025-03-04T05:45:03.275001+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Amazon",
     "role": "SDE 2",
     "yoe": 2.8,
@@ -25652,7 +26152,7 @@
   {
     "id": 6449707,
     "date": "2025-02-21T06:10:43.478850+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "Amazon",
     "role": "SDE 2",
     "yoe": 2.5,
@@ -27712,7 +28212,7 @@
   {
     "id": 6328868,
     "date": "2025-01-25T17:56:37.266192+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "MTS 1",
     "yoe": 10.6,
@@ -27912,7 +28412,7 @@
   {
     "id": 6317697,
     "date": "2025-01-23T03:57:01.725061+00:00",
-    "location": "Chennai",
+    "location": "Pune",
     "company": "PayPal",
     "role": "SDE 2",
     "yoe": 3.9,
@@ -28082,7 +28582,7 @@
   {
     "id": 6305745,
     "date": "2025-01-20T08:52:03.719988+00:00",
-    "location": "Wfh",
+    "location": "WFH",
     "company": "Swiggy",
     "role": "SDE 2",
     "yoe": 3,

@@ -3,7 +3,7 @@
   "banglore": "Bangalore",
   "bengaluru": "Bengaluru",
   "blr": "Bengaluru",
-  "chennai": "Chennai",
+  "chennai": "Pune",
   "delhi": "Delhi",
   "gurgaon": "Gurugram",
   "gurugram": "Gurugram",
@@ -17,5 +17,6 @@
   "pan india": "Pan India",
   "pune": "Pune",
   "raipur": "Raipur",
-  "remote": "Remote"
+  "remote": "Remote",
+  "wfh": "WFH"
 }
